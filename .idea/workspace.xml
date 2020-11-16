@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4d40bfe-2f7f-4a0f-9566-4567e7612c52" name="Default" comment="" />
+    <list default="true" id="c4d40bfe-2f7f-4a0f-9566-4567e7612c52" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello.text" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
